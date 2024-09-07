@@ -4,7 +4,7 @@ description: "git ssh 22 端口不可用时的处理方法"
 pubDate: "Sep 12 2024"
 heroImage: "/post_img.webp"
 badge: "Demo badge"
-tags: [""]
+tags: []
 ---
 
   1.when you can't git clone your project by ssh</p>
